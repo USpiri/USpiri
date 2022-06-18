@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **urielspiridione135@gmail.com**
 
-- ⚡ Fun fact **I love Photography, economics, experiment with arduino, ESP32 and all kind of crazy things, and my favorite game is Minecraft**
+- ⚡ Fun fact **I love Photography, economics, experiment with arduino, ESP32 and all kind of crazy things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
